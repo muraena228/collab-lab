@@ -1,0 +1,10 @@
+# Временные файлы
+*.tmp
+*.log
+
+# Файлы ОС
+Thumbs.db
+.DS_Store
+
+# Папка настроек VS Code
+.vscode/
